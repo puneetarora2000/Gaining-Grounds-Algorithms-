@@ -9,7 +9,7 @@ Rebalancing Periods: The portfolio is periodically adjusted to reflect changes i
 Portfolio Construction: The selected stocks are combined into a single portfolio, aiming for diversification and optimal performance. The concept of a "constellation" suggests that the stocks should complement each other, working synergistically to generate returns.
 Potential Algorithms and Factors
 
-The algorithm repository many indicator based algorithms but not limited to these :
+The algorithm repository include many indicators based algorithms but not limited to these :
 
 Momentum Indicators: Relative Strength Index (RSI), Moving Average Convergence Divergence (MACD), Rate of Change (ROC)
 Trend-Following Indicators: Simple Moving Average (SMA), Exponential Moving Average (EMA)
